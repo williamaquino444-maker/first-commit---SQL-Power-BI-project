@@ -1,14 +1,14 @@
 # Evaluación de Historial Crediticio
 
 # Descripción del Proyecto
-Este proyecto analiza el historial crediticio de clientes utilizando consultas en SQL para el procesamiento de datos y Power BI para la creación de un panel interactivo de toma de decisiones.
+Este proyecto analiza el historial crediticio de clientes utilizando consultas en SQL para el procesamiento de datos y Power BI para la creación de un panel interactivo de toma de decisiones, se utilizo https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv para el estudio.
 
 ## Herramientas Utilizadas
 * SQL: Extracción, limpieza y transformación de datos.
 * Power BI: Modelado de datos y visualización analítica.
 
 ## Estructura del Repositorio
-*
+* `LimpiezaProyectoCrediticio.sql` - Extracción y transformación de datos mediante BigQuery.
 * `proyecto a subir.pbix` - Reporte interactivo en Power BI.
 * `Captura de pantalla...png` - Vista previa del Dashboard.
 
